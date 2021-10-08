@@ -1,0 +1,21 @@
+.button {
+  background-color: #30D5C8;
+  border: none;
+  color: white;
+}
+
+.active {
+  color: #30D5C8;
+}
+
+.splash-screen {
+  background-image: url("img/aidan-hancock-8RU4OuA6Yug-unsplash.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 669px;
+}
+
+.gallery {
+  padding: 0;
+  margin: 0;
+}
